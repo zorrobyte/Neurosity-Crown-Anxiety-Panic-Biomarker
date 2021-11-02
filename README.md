@@ -14,6 +14,10 @@ I would like to come up with a perdictor for anxiety/panic. Note that these may 
 ## What existing research is available?
 
 I've found this so far, **_In-vivo_  EEG Changes During A Panic Attack in a Patient With Specific Phobia** https://www.journalmc.org/index.php/JMC/article/view/532/266
+https://www.researchgate.net/profile/James-Reilly-20/publication/221757678_Using_pre-treatment_electroencephalography_data_to_predict_response_to_transcranial_magnetic_stimulation_therapy_for_major_depression/links/5a16df534585155c26a762d2/Using-pre-treatment-electroencephalography-data-to-predict-response-to-transcranial-magnetic-stimulation-therapy-for-major-depression.pdf
+https://arxiv.org/ftp/arxiv/papers/2010/2010.11667.pdf
+https://towardsdatascience.com/using-machine-learning-to-categorise-eeg-signals-from-the-brain-to-words-728aba93b2b3
+https://towardsdatascience.com/using-brain-computer-interfaces-eeg-signals-to-classify-emotions-ca3e81096a5b
 
 I'm early on and I'm still doing research.
 
