@@ -48,3 +48,5 @@ I think something like this could also be useful in a therapy setting, therapist
 ## Next steps
 
 I'm going to purchase a Crown device and start hacking. I'm also going to have to think about how to ground truth and either train a model, or write a detector somehow.
+
+This would look like shoving a bunch of bio data into ML and doing feature importance to see which sort of data is useful, then refining from there. See https://cloud.google.com/automl-tables/docs/explain
